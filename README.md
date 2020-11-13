@@ -3,10 +3,10 @@
 This repository includes codes for experiments and analyze midRB data. 
 The texform stimuli are created using a ventral pRF model (Freeman & Simoncelli, 2011; Freeman et al., 2013) in a similar way Long et al (2017) did. 
 
-![Procedure](https://octodex.github.com/images/yaktocat.png)
-![Experimental design]
-![Creating stimuli]
-![Long_et_al_2017_vs._Ha_2017]
+![Procedure](https://github.com/JiyeongHa/midRB/blob/master/procedure_midRB.png)
+![Experimental design](https://github.com/JiyeongHa/midRB/blob/master/experimental_Design_midRB.png)
+![Creating stimuli](https://github.com/JiyeongHa/midRB/blob/master/creating_stimuli.png)
+![Long_et_al_2017_vs._Ha_2017](https://github.com/JiyeongHa/midRB/blob/master/comparison_midRB.png)
 
 **The effects of spatiotemporal continuity and mid-level perceptual features of objects on Repetition Blindness**
 
