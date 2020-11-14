@@ -1,8 +1,8 @@
 # midRB
 
 This repository includes codes for experiments and analyze midRB data (Sorry, the figures are described in Korean!).
-The texform stimuli are created using a ventral pRF model (Freeman & Simoncelli, 2011; Freeman et al., 2013) in a similar way Long et al (2017) did.\ 
-*Find the abstract for the work below the figures.*
+The texform stimuli are created using a ventral pRF model (Freeman & Simoncelli, 2011; Freeman et al., 2013) in a similar way Long et al (2017) did.  
+*Find the abstract below the figures.*
 
 ![Procedure](https://github.com/JiyeongHa/midRB/blob/master/procedure_midRB.png)
 ![Experimental design](https://github.com/JiyeongHa/midRB/blob/master/experimental_Design_midRB.png)
